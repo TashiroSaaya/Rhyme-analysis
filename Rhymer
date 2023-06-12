@@ -1,0 +1,5 @@
+git clone https://github.com/suzuki86/rhymer.git
+cd rhymer
+bundle install
+gem build rhymer.gemspec
+gem install rhymer-x.x.x.gem
